@@ -1,8 +1,8 @@
 # Site
-title: Halve
-description: Stylish, Two-Column Jekyll Theme
-url: http://taylantatli.me/Halve
-logo: halve.png                                       # Site logo
+title: Infinity-Master
+description: We build you websites 
+url: http://ntncodex.github.io/Infinity-Master
+logo: images/logo.jpeg                                      # Site logo
 locale: en_US
 
 # Left Block Images
@@ -31,13 +31,13 @@ sass:
 # Social Links
 #email:             email
 #google.plus:        username
-twitter:            username
-#facebook:           username
-github:             username
-stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+#twitter:            username
+facebook:           Nathan Prakash
+github:             ntncodex
+#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-#instagram:          username
+instagram:          ntn_codex
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
@@ -52,7 +52,7 @@ stackoverflow:     123456/username   from a "http://stackoverflow.com/users/1234
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-behance:           username
+#behance:           username
 
 # Gems
 gems:
