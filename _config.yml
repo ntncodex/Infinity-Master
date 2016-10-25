@@ -5,10 +5,13 @@ url: http://ntncodex.github.io/Infinity-Master
 logo: images/logo.jpg                                      # Site logo
 locale: en_US
 
+#new block
+newtitle: Welcome
+description: Welcome to our website
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Our Blog"}
+ - {permalink: "/_posts/", text: "Our Blog"}
 
 # Left Block Images
 background:
